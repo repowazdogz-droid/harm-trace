@@ -1,0 +1,1 @@
+{"version":3,"file":"propagation.d.ts","sourceRoot":"","sources":["../src/propagation.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,KAAK,EACV,eAAe,EACf,WAAW,EACX,kBAAkB,EAEnB,MAAM,SAAS,CAAC;AAIjB,wBAAgB,iBAAiB,CAC/B,KAAK,EAAE,eAAe,EAAE,EACxB,MAAM,EAAE,WAAW,EAAE,EACrB,IAAI,EAAE,GAAG,CAAC,MAAM,EAAE,eAAe,CAAC,GACjC,kBAAkB,EAAE,CAoBtB"}

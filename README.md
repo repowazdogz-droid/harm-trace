@@ -46,6 +46,8 @@ Four capabilities:
 - **proximate** — the decision was the nearest cause in the chain
 - **but_for** — the harm would not have occurred but for this decision
 
+Repository: https://github.com/repowazdogz-droid/harm-trace
+
 ## Install
 
 ```bash

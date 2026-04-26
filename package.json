@@ -1,5 +1,5 @@
 {
-  "name": "harm-trace-protocol",
+  "name": "harm-trace",
   "version": "1.0.1",
   "description": "Tamper-evident causation from AI decisions to real-world harm (HTP-1.0)",
   "license": "MIT",
